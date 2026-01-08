@@ -1,14 +1,14 @@
 # Professional Experience & Data Science Case Studies
 
-This repository highlights my technical contributions and impact across healthcare analytics and business technology roles. Due to the proprietary nature of the code and data at my previous employers, I have documented the methodologies, tools, and outcomes for each project below.
+This repository highlights my technical contributions and impact across my roles at ZS Associates and Data Unveil. Due to the proprietary nature of the code and data at my previous employers, I have documented the methodologies, tools, and outcomes for each project below.
 
 ---
 
 ## 🏥 Patient Analytics & Modeling | Data Unveil
-**Senior Data Analyst | College Park, MD**
+**Senior Data Analyst**
 
 ### 📉 Patient Churn Prediction Model
-* **Context:** Managed a cohort of over **1M+ patients** to understand and prevent therapy discontinuation.
+* **Context:** Managed a cohort of over **1M+ patients** to understand and gain insights into therapy discontinuation.
 * **Action:** Developed predictive models using **Random Forest** and **XGBoost** to identify at-risk patients. 
 * **Action:** Engineered custom logic for **200+ status codes** within the health data model to represent complex longitudinal patient statuses.
 * **Result:** Enhanced patient retention strategies and achieved **98% accuracy** in daily automated data extracts.
@@ -20,7 +20,7 @@ This repository highlights my technical contributions and impact across healthca
 ---
 
 ## 📊 Business Technology Solutions | ZS Associates
-**Business Technology Solutions Associate | Pune, India**
+**Data Analyst | Pune, India**
 
 ### ⚡ Process Automation & Efficiency
 * **Problem:** Manual data processes were slowing down quarterly interaction planning for sales teams.

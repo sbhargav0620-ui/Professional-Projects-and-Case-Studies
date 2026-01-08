@@ -1,31 +1,44 @@
 # Professional Experience & Data Science Case Studies
 
-This repository documents my professional impact and technical contributions in healthcare analytics and business technology. Due to NDAs and proprietary data constraints, source code is not provided; however, the methodologies and results are detailed below.
+This repository highlights my technical contributions and impact across healthcare analytics and business technology roles. Due to the proprietary nature of the code and data at my previous employers, I have documented the methodologies, tools, and outcomes for each project below.
 
 ---
 
-## 🏥 Patient Analytics & Churn Modeling | Data Unveil
-**Senior Data Analyst | [cite_start]April 2024 – July 2025** [cite: 9, 14]
+## 🏥 Patient Analytics & Modeling | Data Unveil
+**Senior Data Analyst | College Park, MD**
 
-### Project: Predictive Churn Modeling for Therapy Retention
-* **Situation:** Managing a cohort of over 1M+ patients where therapy discontinuation was a risk to health outcomes[cite: 15, 16].
-* [cite_start]**Action:** Developed predictive models using **Random Forest** and **XGBoost**[cite: 15]. [cite_start]Engineered logic for **200 status codes** to represent complex, longitudinal patient journeys[cite: 20].
-* **Result:** Enhanced patient retention strategies and achieved **98% accuracy** in daily automated extracts tracking the patient journey[cite: 15, 19].
+### 📉 Patient Churn Prediction Model
+* **Context:** Managed a cohort of over **1M+ patients** to understand and prevent therapy discontinuation.
+* **Action:** Developed predictive models using **Random Forest** and **XGBoost** to identify at-risk patients. 
+* **Action:** Engineered custom logic for **200+ status codes** within the health data model to represent complex longitudinal patient statuses.
+* **Result:** Enhanced patient retention strategies and achieved **98% accuracy** in daily automated data extracts.
 
-### Project: Data Infrastructure & Salesforce Migration
-* [cite_start]**Action:** Managed the end-to-end data migration of patient services hub data to **Salesforce Health Cloud**[cite: 18].
-* [cite_start]**Result:** Optimized SQL queries for data validation to ensure seamless transition and high data integrity[cite: 19].
+### ☁️ Data Infrastructure & Migration
+* **Task:** Managed end-to-end data migration of patient services hub data to the client's in-house **Salesforce Health Cloud** environment.
+* **Action:** Optimized complex SQL queries for data validation and automated monitoring.
 
 ---
 
 ## 📊 Business Technology Solutions | ZS Associates
-**Associate | [cite_start]August 2022 – August 2023** [cite: 21, 23]
+**Business Technology Solutions Associate | Pune, India**
 
-### Project: Process Automation & Optimization
-* [cite_start]**Situation:** Manual data processes were hindering the delivery of interaction plans for 3,500 sales representatives[cite: 24, 27].
-* [cite_start]**Action:** Automated manual data processes and quality checks using enhanced **SQL procedures**[cite: 27, 28].
-* [cite_start]**Result:** Improved operational efficiency by **85%** and successfully delivered quarterly interaction plans adapted to dynamic market conditions[cite: 24, 27].
+### ⚡ Process Automation & Efficiency
+* **Problem:** Manual data processes were slowing down quarterly interaction planning for sales teams.
+* **Action:** Automated manual data processes, including quality checks and reporting tasks, using advanced **SQL procedures**.
+* **Result:** Improved operational efficiency by **85%** and successfully delivered updated plans for **3,500 sales representatives**.
 
-### Project: Quantitative Analysis & Outreach Strategy
-* [cite_start]**Action:** Conducted quantitative analyses to refine interaction cadence between Healthcare Professionals (HCPs) and sales representatives[cite: 30, 32].
-* [cite_start]**Result:** Resolved 100+ queries from sales reps via proprietary interfaces, ensuring strategy alignment[cite: 33].
+### 🎯 Quantitative Analysis & Outreach
+* **Action:** Conducted quantitative analyses to support refinement for HCP-Sales Rep interaction cadence and outreach plans.
+* **Result:** Resolved over 100+ business queries via proprietary UX interfaces, ensuring technical workflows aligned with business priorities.
+
+---
+
+## 🏆 Awards & Recognition
+* **ZS Campus Beats Case Study Challenge:** Recognized as a **'Top 150' data team** in a country-wide competition involving complex analytics and problem-solving.
+
+---
+
+## 🛠️ Technical Stack
+* **Languages:** Python, SQL, C++
+* **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Random Forest, Keras
+* **Databases:** MySQL, PostgreSQL, OracleSQL
